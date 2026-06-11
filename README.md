@@ -11,3 +11,5 @@ Some popular threads:
 * [How to upgrade a D868UV to a D878UV](https://github.com/geary/AnyTone-D868UV/issues/59)
 * [Can we improve the GPS lock time?](https://github.com/geary/AnyTone-D868UV/issues/61)
 * [Finer steps for volume control, especially at low volumes](https://github.com/geary/AnyTone-D868UV/issues/29)
+
+![AnyTone HQ](https://github.com/geary/AnyTone-D868UV/blob/master/AnyTone%20HQ.jpg)
